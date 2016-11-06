@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="dbatu.techfest.org.cynosure16">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/cyno"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".RoboWarsActivity"
+            android:label="@string/title_activity_robo_wars"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ISpeakActivity"
+            android:label="@string/title_activity_ispeak"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".FrugalLabsActivity"
+            android:label="@string/title_activity_frugal_labs"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".MockDriveActivity"
+            android:label="@string/title_activity_mock_drive"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".FramedActivity"
+            android:label="@string/title_activity_framed"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".XcelerateActivity"
+            android:label="@string/title_activity_xcelerate"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".MarketKshetraActivity"
+            android:label="@string/title_activity_market_kshetra"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".EstateWarsActivity"
+            android:label="@string/title_activity_estate_wars"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".StructuraActivity"
+            android:label="@string/title_activity_structura"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".EnigmaActivity"
+            android:label="@string/title_activity_enigma"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".DetectiveActivity"
+            android:label="@string/title_activity_detective"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".MicroAppActivity"
+            android:label="@string/title_activity_micro_app"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".MicroMouseActivity"
+            android:label="@string/title_activity_micro_mouse"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ProgChampsActivity"
+            android:label="@string/title_activity_prog_champs"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".GooglerActivity"
+            android:label="@string/title_activity_googler"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".MazeRunnerActivity"
+            android:label="@string/title_activity_maze_runner"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".CrimeSceneActivity"
+            android:label="@string/title_activity_crime_scene"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".TeamActivity"
+            android:label="@string/title_activity_team"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".IgniteActivity"
+            android:label="@string/title_activity_ignite"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ThoughtExpoActivity"
+            android:label="@string/title_activity_thought_expo"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".AndroidWorkshopActivity"
+            android:label="@string/title_activity_android_workshop"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".RoboWorkshopActivity"
+            android:label="@string/title_activity_robo_workshop"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".WallWorkshopActivity"
+            android:label="@string/title_activity_wall_workshop"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ChemWorkshopActivity"
+            android:label="@string/title_activity_chem_workshop"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+    </application>
+
+</manifest>

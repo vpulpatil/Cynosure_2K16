@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="dbatu.techfest.org.cynosure16.MainActivity">
+    <item
+        android:id="@+id/team"
+        android:icon="@drawable/ic_group_white_24dp"
+        android:title="@string/team"
+        app:showAsAction="always" />
+</menu>

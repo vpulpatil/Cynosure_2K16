@@ -1,0 +1,287 @@
+<resources>
+    <string name="app_name">Cynosure\'16</string>
+    <string name="action_settings">Settings</string>
+    <string name="login">Login</string>
+    <string name="para">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam condimentum lacus ligula, a auctor lectus lobortis sit amet. Proin in neque at justo suscipit mattis quis vitae nulla. Duis maximus sapien a nulla egestas, non ultrices tortor dictum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut at magna tristique, elementum lacus ac, vestibulum nunc. Donec felis lectus, fringilla eget gravida sed, lacinia id tellus. Sed nisl justo, tempor eget mollis quis, auctor vitae quam. Pellentesque habitant morbi tristique senectus et netus.</string>
+
+
+    <string-array name="tabs">
+        <item>Home</item>
+        <item>Events</item>
+        <item>Workshops</item>
+        <item>Sponsors</item>
+    </string-array>
+    <string name="title_activity_robo_wars">RoboWars</string>
+    <string name="title_activity_ispeak">I-Speak</string>
+    <string name="title_activity_frugal_labs">Frugal World</string>
+    <string name="title_activity_mock_drive">Mock Recruitment Drive</string>
+    <string name="title_activity_framed">#Framed</string>
+    <string name="title_activity_xcelerate">X\'celerate Reloaded</string>
+    <string name="title_activity_market_kshetra">Marketkshetra</string>
+    <string name="title_activity_estate_wars">Estate Wars</string>
+    <string name="title_activity_structura">Structura</string>
+    <string name="title_activity_enigma">Enigma</string>
+    <string name="title_activity_detective">D-Tech-Tive</string>
+    <string name="title_activity_micro_app">Micro-App</string>
+    <string name="title_activity_micro_mouse">Micromouse</string>
+    <string name="title_activity_prog_champs">Prog.Champs</string>
+    <string name="title_activity_googler">Googler</string>
+    <string name="title_activity_maze_runner">Maze Runner</string>
+    <string name="title_activity_crime_scene">C.S.I.</string>
+    <string name="title_activity_ignite">Ignite</string>
+    <string name="title_activity_thought_expo">Thought-Expo</string>
+    <string name="college_name">Dr. Babasaheb Ambedkar Technological University</string>
+    <string name="presents">Presents</string>
+    <string name="college_info">The young turks of Dr. B.A.T.U. proudly present their technical festival, CYNOSURE 2k16. With a vision to inspire the engineers, CYNOSURE 2k16 provide the platform for the brightest minds of state to showcase their own creativity and ingenuity. Students from across the state participate here. What\'s in the store is an enthralling experience. Participate and take home prizes worth ₹ 2,00,000 this year.</string>
+    <string name="cyno_logo">Cynosure Logo</string>
+    <string name="team">Team Cynosure</string>
+    <string name="title_activity_team">Team</string>
+    <string name="event_fees">Event Fees</string>
+    <string name="rules">Rules</string>
+    <string name="rounds">Rounds</string>
+    <string name="round1">Round 1</string>
+    <string name="round2">Round 2</string>
+    <string name="round3">Round 3</string>
+    <string name="round4">Round 4</string>
+    <string name="round5">Round 5</string>
+    <string name="description">Description </string>
+    <string name="event_head">Event Head</string>
+    <string name="divider">dividerLine</string>
+
+    <!--Crime Scene Investigation-->
+
+    <string name="csi_info">Justice is an exalted term-easy to promote but difficult to articulate in any context.\nIn any crime,the needle of suspicion falls on several suspects but apart from this,\na crime is generally done for a presise purpose.\nSo your art lies in zeroing in on the culprit as well as finding out the reason behind the murder.\nThis is your aim at ‘CSI’.\nExercise your grey cells,apply intellect and reason,invoke your spy inside you and solve the crime scene.\nAnd the reward will be an unforgettable experience-the thrill,horror and excitement of unraveling the mystery !!</string>
+    <string name="csi_fees">₹ 100/- per team</string>
+    <string name="csi_rules">1. Strictly a team of 2 people.\n2. Language: English.\n3. In a case of tie, judging will be done on the time taken to complete the task - applicable for all rounds.\n4. Use of cell phones is strictly prohibited.</string>
+    <string name="csi_round1">Watch to Catch</string>
+    <string name="csi_round2">Deduction</string>
+    <string name="csi_round3">Chase the Case</string>
+    <string name="csi_head">Sahil Kawade</string>
+
+    <!--D-tech-tive-->
+
+    <string name="detec_info">D-Tech-Tive involves Pictionary (guessing a word game), wherein a team member has to illustrate the given set of scientific words to the other team member via actions, drawings and physical gestures within a specified time-limit. It will consist of several rounds, pertaining to scientific words. Indeed assessing the trust and creativity within a team.</string>
+    <string name="detec_fees">₹ 100/- per team</string>
+    <string name="detec_rules">1. A team with 2 Participants is allowed.\n2. The decision made by the organizers will be final.\n3. Any further addition to the rules will be conveyed on spot.	</string>
+    <string name="detec_round1">One member of the team will be given a SPECIFIC word. The person has to demonstrate the word to his/her partner with the help of maximum 3 RELATED words within the given time limit.</string>
+    <string name="detec_round2">Participant will have to find the word with the help of given clue and letters provided and arrange the letters accordingly. The specified number of teams completing the task in minimum time will advance to the final round.</string>
+    <string name="detec_round3">One member of the team will be provided with a paragraph which will contain a specific object, which will be available near the vicinity of the event. The other teammate will have to find that object and give it to his/her partner within minimum time.</string>
+    <string name="detec_head1">Bhushan Mahajan</string>
+    <string name="detec_head2">Rijo Daniel</string>
+
+    <!--Robowars-->
+
+    <string name="robo_fees">₹ 1000/- per team</string>
+    <string name="robo_info">Design and construct a remote controlled robot capable of fighting a one on one tournament.</string>
+    <string name="robo_rules">1. Maximum 10 members per team.\n2. A team, once registered, can register again, but with same team name.\n3. All students with a valid identity card of their respective educational institutes are eligible to participate.\n4. Teams will be required to show the I-Cards of all of its team members during the matches.\n5. A team may consist of members from different educational institutes.\n6. Points will be deducted in case of multiple operators in a single match.</string>
+    <string name="robo_head1">Shubhankar Jathar</string>
+    <string name="robo_head2">Vivekanand Desai</string>
+
+    <!--#Framed-->
+
+    <string name="framed_fees">₹ 50/- per Participant</string>
+    <string name="framed_info">Photography has little to do with what you see and everything to do with the way you see.\nSend your best photos and see your photos displayed on the WALL OF FAME. </string>
+    <string name="framed_rules">1. No Restrictions on no. of entries per Person.\n2. Minimum 5MP Resolution.\n3. No Watermarks or Borders.</string>
+    <string name="framed_round1">70 photographs will be selected from the entries.</string>
+    <string name="framed_round2">Top 20 individuals from Round 1 will compete on the basis of their photography skills which they will be clicking on campus according to the topics given.</string>
+    <string name="framed_round3">Top 10 individuals from Round 2 will be given any 3 events from CYNOSURE 2k16 to cover which are to be submitted later.</string>
+    <string name="framed_head1">Noopur Gaikwad</string>
+    <string name="framed_head2">Noopur Walve</string>
+
+    <!--Enigma-->
+
+    <string name="enigma_fees">₹ 200/- per team</string>
+    <string name="enigma_info">An Enigma is a chain of different \'ENERGY CONVERSION\' steps, in which one steps triggers the next one leading to completion of final task. It is all about making the most complicated solution to a simple problem.\nThis event is designed to pull students away from conventional problem solving and push them into the endless chaos of imagination and intuitive thought.</string>
+    <string name="enigma_rules">1. A team with maximum 4 Participants is allowed.\n2. The decision made by the organizers will be final.\n3. Participants can start building the contraption four hours prior to start of the event.\n4. Any further addition to rules will be conveyed on spot.</string>
+    <string name="enigma_round">The event will consist of only ONE round:\nTwo tasks are to be completed.\nFirst task is glowing of 3 LEDs and final task is displaying a message\slogan about ENERGY CONSERVATION.\nMaximum trials allowed is TWO. Time allowed for 2nd trial is 45 minutes.</string>
+    <string name="enigma_head1">Vatan Mehar</string>
+    <string name="enigma_head2">Revankumar Mahajan</string>
+
+    <!--Estate Wars-->
+
+    <string name="estate_fees">₹ 200/- per team</string>
+    <string name="estate_info">This is the world of competition where we all need to compete in many fields to get success and competing with some experience is much beneficial for us.This event consist of developing a given land based on the specification.\nThis event not only gives the developing techniques but also contributes to our knowledge of GK, aptitude, bidding process, university and investment policies.</string>
+    <string name="estate_rules">1. A team with 2 Participants is allowed.\n2. The decision made by the organizers will be final.\n3. Any further addition to the rules will be conveyed on spot.</string>
+    <string name="estate_round1">Aptitude Test- Those who clear aptitude will be treated as developers and others as investors.</string>
+    <string name="estate_round2">For Developers-\n   1. Bidding process\n   2. Planning</string>
+    <string name="estate_round3">For Developers-\n   Model Making\nFor Investors-\n   Investors will be given a virtual money, which they have to invest in the land developed by developers.</string>
+    <string name="estate_head1">Onkar Deshpande</string>
+    <string name="estate_head2">Sunil Narvade</string>
+
+    <!--Frugal World-->
+
+    <string name="frugal_fees">₹ 50/- per Individual for a group of 2/3 students</string>
+    <string name="frugal_info">This event is designed to encourage the young minds to innovate things from household stuffs to guide them to utilize their competencies to serve the nation through research and innovation.</string>
+    <string name="frugal_rules">1. The students must register at least before the date of the event.\n2. The students must carry a valid Identity Card and the pass given to them at the time of registration.\n3. The decision of the judge will be final and binding. </string>
+    <string name="frugal_round1">This round will be buzzer round.\nParticipants will have to explain the mechanism or the concept behind that video, which will be shown to participants.</string>
+    <string name="frugal_round2">Participants will have to make an efficient and cheap model, which will explain the mechanisms/concepts mostly used in industries using household materials.</string>
+    <string name="frugal_head1">Pankaj Kove</string>
+    <string name="frugal_head2">Vaibhav Bhelonde</string>
+
+    <!--Googler-->
+
+    <string name="googler_fees">₹ 50/- per Participant</string>
+    <string name="googler_info">In this era of the internet, time plays a crucial part and so does your googling skills.\nWith the clocks ticking by, solve the given task in minimum time and become the ultimate \'GOOGLER\'!</string>
+    <string name="googler_rules">1. Only Individual Participation is allowed.\n2. The time measured by the organizers will be final.\n3. Any further addition to rules will be conveyed on spot.</string>
+    <string name="googler_round1">Google It</string>
+    <string name="googler_round2">Image Analysis</string>
+    <string name="googler_round3">Wild Card Entry (Mystery Round)</string>
+    <string name="googler_round4">The Google Quest</string>
+    <string name="googler_round5">Rapid Search</string>
+    <string name="googler_head1">Prashant Navatre</string>
+    <string name="googler_head2">Rukayya Kadiri</string>
+
+    <!--Ignite-->
+
+    <string name="ignite_fees">₹ 100/- per team</string>
+    <string name="ignite_info">The competition is all about promotion of student\'s invention and research to a layman. </string>
+    <string name="ignite_rules">1. Maximum participation of two people.\n2. In case of any discrepancy, the committee reserves the right to the final verdict.\n3. Participants must carry their valid ID cards.</string>
+    <string name="ignite_round1">It is all about Basic Idea Presentation (eg. in the form of poster,charts)</string>
+    <string name="ignite_round2">It is all about Powerpoint Presentation</string>
+    <string name="ignite_head1">Vijay Jamdar</string>
+    <string name="ignite_head2">Dnyanesh Deshmukh</string>
+
+    <!--Xcelerate-->
+    <string name="xcelerate_info">Here comes the most awaited Event of the year\nX\'celerate Reloaded 2K16\nCreating buzz all over again with All its Grace and Valour\nIt\'s not just a Race but even more Fun and Thrill\nRacing, Jousting, Hidden rounds, Puzzles and lot more\nSo, are you ready to conquer your way to Victory?</string>
+    <string name="xcelerate_fees">₹ 300/- per team</string>
+    <string name="xcelerate_rules">1. Only one robot per team is allowed in the respective rounds(may change the robot in further rounds but not in the same round).\n2. Points in robot specifications will be part of rules.\n3. Once the round is started same operator will continue till the end for respective rounds.\n4. To touch the robot while racing will not be allowed.\n5. The time and points recorded by the organizers will be final and won\'t be changed in any conditions.</string>
+    <string name="xcelerate_round1">Qualified bots will race with the opponent and they should clear all hurdles</string>
+    <string name="xcelerate_round2">Beat the opponent out of the way to make your way to victory.</string>
+    <string name="xcelerate_round3">A hidden round-an intermediate between the rounds.</string>
+    <string name="xcelerate_round4">Complete the specified task with your own designed bot (football).</string>
+    <string name="xcelerate_round5">See the track, Solve the track, Make and Build your way. Most exciting tasks. Most amazing and efficient will be the winner.</string>
+    <string name="xcelerate_head1">Prasad Kadam</string>
+    <string name="xcelerate_head2">Sayali Patil</string>
+
+    <!--Structura-->
+    <string name="structura_info">STRUCTURA is a structures making competition, where the ability to make structure of highest quality from the given material in given constraints is examined.</string>
+    <string name="structura_fees">₹ 150/- per team.</string>
+    <string name="structura_rules">1. Maximum of 3 participants per team.\n2. The model must be made within provided time only.\n3. Participant will be given three opportunities only to adjust the structure.\n4. One team can make only one structure for proposed competition.</string>
+    <string name="structura_round1">FLOAT ON!</string>
+    <string name="structura_round2">CONSTRUCT IT!</string>
+    <string name="structura_head1">Shruti Londhe</string>
+    <string name="structura_head2">Pooja Surwade</string>
+
+    <!--progchamps-->
+    <string name="prog_info">Wanna be the CHAMPION CODER??\nProg.Champs is the event to testify your debugging and programming skills. Event consist of three simple rounds which enables you to improve yourself as a die-hard programmer. Participate and compete to be the next Prog.Champ</string>
+    <string name="prog_rules">1.Decisions made by the event head will be final at the time of event.\n2.Participating participants are not allowed to use any electronic devices like mobile phones, pagers, etc. during any Round of the event.</string>
+    <string name="prog_round1">General quiz with questions related to computer programming.Top 20 participants with maximum score will qualify to Round 2.</string>
+    <string name="prog_round2">Participants will have to find the errors and correct the code and get the expected output.</string>
+    <string name="prog_round3">Participants will be given 3 problem statements. The participants are required to solve in Round Robin fashion.</string>
+    <string name="prog_head1">Tejas Kolge</string>
+    <string name="prog_head2">Pooja Palangtode</string>
+    <string name="prog_fees">₹ 75/- per participant.</string>
+
+    <!--MRD-->
+    <string name="mrd_info">This is the world of competition where we all need to compete in many fields to get success, and competeting with some experience is much beneficial for us. The main part we need to face during getting a job is to face the interview comprising of the three rounds. This event not only gives a short mock recruitment procedure but also will provide the participants with relevant aptitude, group discussion and interview experience.</string>
+    <string name="mrd_rules">1. ID-cards are mandatory.</string>
+    <string name="mrd_fees">₹ 100/- per Participant</string>
+    <string name="mrd_round1">General aptitude.</string>
+    <string name="mrd_round2">Group discussion.</string>
+    <string name="mrd_round3">Personal Interview by company HR.</string>
+    <string name="mrd_head1">Amol Pawar</string>
+    <string name="mrd_head2">Nishikant Sonawane</string>
+
+    <!--Micromouse-->
+    <string name="micromouse_info">The contestant or team of contestants will have to design and build small self-contained robots (micromouse) to negotiate a maze in the shortest possible time.</string>
+    <string name="micromouse_fees">₹ 300/- per team.</string>
+    <string name="micromouse_rules">1. A team can consist of a maximum of 3 participants.\n2. All students with a valid identity card of their respective educational institutes are eligible to participate.</string>
+    <string name="micromouse_round1">The micromouse have to follow a simple wall maze. The mice with minimum run-time will qualify for next round.</string>
+    <string name="micromouse_round2">Second round comprises wall maze and a pair of mice have to start their run from start lines. The mouse reaching the destination line first will qualify for the final round.</string>
+    <string name="micromouse_round3">Third round will be final round. It will comprise of a difficult and huge maze structure. The mouse with least run-time will be declared as the winner.</string>
+    <string name="micromouse_head1">Hitesh Narkhede</string>
+    <string name="micromouse_head2">Saumik Sarkar</string>
+
+    <!--Microapp-->
+    <string name="microapp_info">This event consist of designing optimized product using Atmel AT89C51 microcontroller and Arduino on both software and hardware level. It enhance the knowledge about today’s essential device microcontroller. It consists implementing design on a circuit and testing it.</string>
+    <string name="microapp_fees">₹ 100/- per team.</string>
+    <string name="microapp_rules">1. Maximum two participant per team are allowed.\n2. ID-cards are mandatory.\n3. Any further additions to the rules will be conveyed on spot.</string>
+    <string name="microapp_round1">Elimination Aptitude Test (MCQ) based on basic knowledge of controller and programming.</string>
+    <string name="microapp_round2">Solve the given problem by programming using Keil µVision software.</string>
+    <string name="microapp_round3">Solve daily life problems by making a system as a solution using software.</string>
+    <string name="microapp_round4">Construct the given system circuit in least possible time on Arduino board.</string>
+    <string name="microapp_head1">Manoj Kokane</string>
+    <string name="microapp_head2">Sagar Gadewar</string>
+
+    <!--MazeRunner-->
+    <string name="maze_info">The event is basically a real life adaption of a maze running game where the college campus would be the maze. This will be a team event, each team would be comprised of 3 participants. The team is supposed to complete the maze using a series of clues. </string>
+    <string name="maze_fees">₹ 150/- per team.</string>
+    <string name="maze_rules">1.Maximum 3 participants.\n2.Id card is mandetory for every participant.</string>
+    <string name="maze_round1">This level would test the intellect of the participants. The clues will be based on reasoning and general knowledge.</string>
+    <string name="maze_round2">This level would the PicPuzz. By rearranging the pieces participant would get the next clue. The difficulty level of this level would be higher than that of level 1.</string>
+    <string name="maze_round3">This will be the final round of the event. It consist various tasks. The details of this round will be declared on the spot.</string>
+    <string name="maze_head1">Shubham Didale</string>
+    <string name="maze_head2">Somesh Arewar</string>
+
+    <!--Marketshetra-->
+    <string name="market_info">The event exposes a person’s marketing and communication skills as well as his financial and economical knowledge. The event consists of the vision to create and visualise future along with required skills.</string>
+    <string name="market_rules">1.Max.two participant per team are allowed.\n2.In case of any dispute, the decision of the judges and event committee will be final and binding.\n3.The time and points accounted by the organizers for the task (if any) will be final and won\'t be changed in any conditions.</string>
+    <string name="market_fees">₹ 100/- per team.</string>
+    <string name="market_round1">This is an aptitude round. </string>
+    <string name="market_round2">This round consists of a person’s customer convincing skills. Revealed on the spot. </string>
+    <string name="market_round3">Final round. The participants will be given a particular item by the committee and will be allowed to vision the same product specifications to remain the supreme leader of the same in the future.</string>
+    <string name="market_head1">Gaurav Dubey</string>
+    <string name="market_head2">Vishal Gaikwad</string>
+
+    <!--ispeak-->
+    <string name="ispeak_info">I Speak is a National level technical paper presentation. This event will not only enhance the knowledge sharing in the various fields of engineering, to cultivate the new thoughts, to kindle the minds of students but also helps the students to get a good idealizing skill.</string>
+    <string name="ispeak_fees">₹ 100/- per team.</string>
+    <string name="ispeak_rules">1. Two participants per team.\n2. The paper presentation time is for 8 minutes and queries for 2 minutes for each paper.\n3. Abstract should be sent before 01/03/2016 in the given format.\n4. Paper should not exceed 8 pages.\n5. Candidates should bring two hard copies and one soft copy of the paper at the time of presentation\n6. The decision of the judge will be final and binding.\n7. Any act against the spirit of the event will lead to disqualification of the team.</string>
+    <string name="ispeak_round1">Topics for Round 1 - \nGreen Chemical Technology (Chemical)\nImpact of Offshore Drilling over Onshore Drilling (Petrochemical)\nIndia and Mechanical Engineering (Mechanical)\nModern trends in Electronics (EXTC)\nRenewable Energy Technologies (Electrical)\nRecent trends in Civil Engineering (Civil)\nCloud Computing (Computer)\nCyber Security (IT)</string>
+    <string name="ispeak_round2">Topics for Round 2 - \nDigital India (All branches)</string>
+    <string name="ispeak_head1">Sunita Singh</string>
+    <string name="ispeak_head2">Amar Patil</string>
+
+    <!--Thought Expo-->
+    <string name="thought_info">A General exhibition for the students to implement their creative ideas with the help of technology.\nThe idea is to think in different creative ways to make your city smart and make developing India into developed one.</string>
+    <string name="thought_theme">Smart City</string>
+    <string name="thought_guide">1. No digital print or work is allowed on your poster/model (only handwork preferred)\n2. The materials used for the design should be bio-degradable/Environment friendly (e.g. Thermocol not allowed)\n3. Model should have scientific/technological touch.\n4. Through this theme, we expect you to project your ideas on development of “Smart Cities” and technological advancements.</string>
+    <string name="thought_fees">₹ 30/- per participants</string>
+    <string name="thought_head1">Vaidehee Bhise</string>
+
+
+    <!--Sponsors-->
+    <string name="radio_partner">Official Radio Partner</string>
+
+    <!--Team Cynosure-->
+
+    <string name="web_app_team_main">Website and App Developers</string>
+    <string name="team1">Nikhil Powar</string>
+    <string name="team2">Ashwin Kolte</string>
+    <string name="team3">Ananya Sharma</string>
+    <string name="team4">Chaitanya Jadhav</string>
+    <string name="team5">Vaidehee Bhise</string>
+    <string name="team6">Shubham Aglave</string>
+    <string name="team7">Harshada Garse</string>
+    <string name="team8">Avinash Prajapati</string>
+    <string name="team9">Nishesh Rohatgi</string>
+    <string name="team10">Rajiv Biswas</string>
+    <string name="web_app_team1"> Vipul Patil</string>
+    <string name="web_app_team2">Pranjal Nartam</string>
+    <string name="web_app_team3">Utkarsh Patil</string>
+
+    <!--Android Workshop-->
+
+    <string name="title_activity_android_workshop">Android Workshop</string>
+    <string name="contents">Contents</string>
+    <string name="main_android_contents">1. Fundamental Android UI Design\n2. Introducing Intents\n3. Introducing Adapters\n4. Databases in Android\n5. Introducing SMS\n6. Android Telephony\n7. Media APIs\n8. Introducing Notification\n9. Camera\n10. Bluetooth\n11. Google Maps\n12. Managed Network and Wi-Fi Connections\n13. Android Location API\n14. Android Broadcast Receiver\n15. Android WebView</string>
+
+    <!--Robowars Workshop-->
+
+    <string name="title_activity_robo_workshop">Robowars Workshop</string>
+    <string name="main_robo_contents">1. Introduction to Bots\n2. Chassis Design\n3. Basic Making of the bot\n4. Material used for making bots\n5. Attacking Techniques</string>
+
+    <!--Wall-following Robotics Workshop-->
+
+    <string name="title_activity_wall_workshop">Wall-following Workshop</string>
+    <string name="main_wall_contents">1. Brief information about robotics\n2. Arduino programming\n3. Sensor working\n4. National-level certificate by Infizeal technologies</string>
+    <string name="wall_descript">Learn to make your own robot which is able to sense / follow a wall itself.</string>
+    <string name="workshop_attr">Workshop Attractions</string>
+    <string name="title_activity_chem_workshop">ChemWorkshopActivity</string>
+    <string name="chem_workshop_descript">Chemical Department has organized workshop Dated on 29th February and 1st March on the-\n1. Effective use of Calculator\n2. Python Programming\n3. LATEX Workshop\n by Prof. Chandrashekhar Gourshete,\n(Asst. Professor, Govt. of Aurangabad)</string>
+    <string name="chem_contents">1) Effective use of Calculator, Casio fx-991MS and above versions( specially for first-second year students from all branches). It includes how to perform regression, intrapolation, extrapolation and multiple statement and many more\n2)Python (programing language) which is useful for official documentation.\n3)LATEX (a word processor and a document markup language) for scientific report writing.</string>
+    <string name="chem_workshop_fees">₹ 50/- per participant</string>
+    <string name="follow">Follow us on:</string>
+
+
+</resources>
